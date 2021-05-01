@@ -1,0 +1,151 @@
+ body {
+  font-style: #fff;
+ }
+
+ .nama {
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+  color: #295091;
+
+ }
+
+ .span ul {
+  text-decoration: none;
+  display: flex;
+  display: inline-flex;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: bold;
+  color: #285193;
+  list-style-type: none;
+}
+
+.podpisat {
+  width: 21px;
+  height: 21px;
+  display: flex;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+}
+
+.podpisat a {
+  text-decoration: none;
+}
+
+.nav {
+  text-decoration: none;
+  width: 1150px;
+  height: 25px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 23px;
+}
+.nav a {
+  text-decoration: none;
+}
+
+.imegs ul {
+  font-family: 'Rubik', sans-serif;
+  display: flex;
+  font-style: none;
+  width: 230px;
+  height: 50px;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.font ul {
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+  font-style: none;
+  color: #202020;
+  font-weight: bold;
+  list-style-type: none;
+
+}
+.font a {
+  text-decoration: none;
+}
+
+.xotite {
+  width: 2110px;
+  height: 26px;
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  display: flex;
+}
+
+.xotite a {
+  text-decoration: none;
+}
+
+.section a {
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.section p {
+  font-family: 'Rubik', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 20px;
+  color: #FFFFFF;
+  list-style-type: none;
+}
+
+.aside h3 {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+  color: #295093;
+}
+
+.aside ul {
+  font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+color: #333333;
+list-style-type: none;
+}
+
+.aside a {
+  text-decoration: none;
+}
+
+.foter {
+  display: flex;
+  width: 1440px;
+  height: 225px;
+  left: 0px;
+  top: 2569px;
+  text-decoration: #fff;
+  background: #295093;
+}
+.foter a {
+  text-decoration: none;
+}
